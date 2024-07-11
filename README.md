@@ -2,7 +2,7 @@
 
 small website build with tailwind thanks to this [guy](https://www.youtube.com/@DaveGrayTeachesCode)
 
-
+![demo](./demo.png)
 ## Installation
 
 Step-by-step instructions on how to get the development environment running.
